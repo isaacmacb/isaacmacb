@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu me chamo Isaac Maciel</h1>
-<h3 align="center">Análise de Dados | Desenvolvedor de Projetos Back-End como Hobby</h3>
+<h3 align="center">Análise de Dados | Entusiasta em programação</h3>
 
 ---
 
