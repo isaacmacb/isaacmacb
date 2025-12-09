@@ -50,43 +50,6 @@ Gosto de criar **soluções eficientes**, seja para otimizar processos, desenvol
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=isaacmacb&show_icons=true&theme=tokyonight&cache_seconds=86400" 
-       alt="GitHub Stats" 
-       height="165"
-  />
-</p>
-
-## 📊 Linguagens Mais Usadas
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmacb&layout=compact&theme=tokyonight&cache_seconds=86400" 
-       alt="Top Langs" 
-       height="165"
-  />
-</p>
-
-## 👁‍🗨 Visitantes 
-<p align="center">
-  <img 
-       src="https://profile-counter.glitch.me/isaacmacb/count.svg" 
-       alt="Visitor Count"
-  />
-</p>
-
-## 🏆 Conquistas
-<p align="center">
-  <img 
-       src="https://github-profile-trophy.vercel.app/?username=isaacmacb&theme=tokyonight&margin-w=15" 
-       alt="GitHub Trophies"
-  />
-</p>
-
----
-
 ## 🚀 Minha missão
 Criar soluções funcionais, escaláveis e inteligentes — seja em **código, dados ou automações**.  
 Tecnologia é meu meio, melhoria contínua é meu objetivo.
