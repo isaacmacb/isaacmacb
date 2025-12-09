@@ -1,57 +1,76 @@
-<h1 align="center">Olá 👋, eu me chamo Isaac Maciel</h1>
-<h3 align="center">Desenvolvedor Java | Back-End | Analista de Dados</h3>
+<h1 align="center">👋 Olá, eu sou o Isaac Maciel</h1>
+<h3 align="center">Desenvolvedor Java & Back-End | Analista de Dados | Automação e Infra</h3>
 
 ---
 
-## 📫 Você pode me encontrar:
+## 🚀 Sobre mim
+
+Sou desenvolvedor Back-End com experiência prática em **Java e seu ecossitema back-end, PostgreSQL e APIs**, aliado a uma forte atuação em **dados, automações e infraestrutura leve com Docker**.  
+Trabalho diariamente integrando **tecnologia + análise de dados** para entregar soluções reais, como dashboards, automações de marketing (n8n), relatórios.
+
+Gosto de criar **soluções eficientes**, seja para otimizar processos, desenvolver aplicações modernas ou estruturar dados para tomada de decisão.
+
+---
+
+## 📫 Onde me encontrar
 
 [![LinkedIn Pessoal](https://img.shields.io/badge/LinkedIn_Pessoal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-bessa-044a14321/)
 [![LinkedIn Projetos](https://img.shields.io/badge/LinkedIn_Projetos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/104902222/admin/dashboard/)
 
 ---
 
-## 🚀 Tecnologias e Skills
+## ⚙️ Tecnologias e Ferramentas
 
-### 💻 Back-End
+### 💻 Back-End & APIs
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JasperReports](https://img.shields.io/badge/Jaspersoft-FC636B?style=for-the-badge&logo=jasperreports&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🐳 DevOps & CI/CD
+### 🐳 DevOps, Containers e Automação
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Automations-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Banco de Dados & Análise
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 📊 Banco de Dados & Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌐 Front-End (para projetos)
+### 📈 Business Intelligence & Observabilidade
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Apache Hop](https://img.shields.io/badge/Apache_Hop-6A3E8E?style=for-the-badge&logo=apache&logoColor=white)
+
+
+### 🌐 Front-End (apoio aos projetos)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacmacb&show_icons=true&theme=tokyonight)
 
-## 📊 Linguagens Mais Usadas
-
+### 📊 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmacb&layout=compact&theme=tokyonight)
 
 ---
 
-## 👁‍🗨 Contador de Visitas
-
+## 👁‍🗨 Visitantes 
 ![Visitor Count](https://profile-counter.glitch.me/isaacmacb/count.svg)
 
 ---
 
-## 🏆 Conquistas no GitHub
-
+## 🏆 Conquistas
 [![Trophy](https://github-profile-trophy.vercel.app/?username=isaacmacb&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🚀 Minha missão
+Criar soluções funcionais, escaláveis e inteligentes — seja em **código, dados ou automações**.  
+Tecnologia é meu meio, melhoria contínua é meu objetivo.
+
