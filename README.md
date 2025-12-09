@@ -15,7 +15,6 @@ Gosto de criar **soluções eficientes**, seja para otimizar processos, desenvol
 ## 📫 Onde me encontrar
 
 [![LinkedIn Pessoal](https://img.shields.io/badge/LinkedIn_Pessoal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-bessa-044a14321/)
-[![LinkedIn Projetos](https://img.shields.io/badge/LinkedIn_Projetos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/104902222/admin/dashboard/)
 
 ---
 
