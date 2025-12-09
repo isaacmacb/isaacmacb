@@ -52,20 +52,38 @@ Gosto de criar **soluções eficientes**, seja para otimizar processos, desenvol
 
 ## 📈 Estatísticas do GitHub
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacmacb&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=isaacmacb&show_icons=true&theme=tokyonight&cache_seconds=86400" 
+       alt="GitHub Stats" 
+       height="165"
+  />
+</p>
 
-### 📊 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmacb&layout=compact&theme=tokyonight)
-
----
+## 📊 Linguagens Mais Usadas
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmacb&layout=compact&theme=tokyonight&cache_seconds=86400" 
+       alt="Top Langs" 
+       height="165"
+  />
+</p>
 
 ## 👁‍🗨 Visitantes 
-![Visitor Count](https://profile-counter.glitch.me/isaacmacb/count.svg)
-
----
+<p align="center">
+  <img 
+       src="https://profile-counter.glitch.me/isaacmacb/count.svg" 
+       alt="Visitor Count"
+  />
+</p>
 
 ## 🏆 Conquistas
-[![Trophy](https://github-profile-trophy.vercel.app/?username=isaacmacb&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img 
+       src="https://github-profile-trophy.vercel.app/?username=isaacmacb&theme=tokyonight&margin-w=15" 
+       alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
