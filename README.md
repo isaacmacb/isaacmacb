@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Back-End com **projetos em produção utilizando C#/.NET Core** e sólida formação em **Java/Spring Boot**. Minha trajetória combina 5 anos de experiência no marketing digital, com evolução de estagiário a supervisor, e uma transição ativa para o desenvolvimento de software.
+Sou desenvolvedor Back-End com **projetos em produção utilizando C#/.NET Core** e sólida formação em **Java/Spring Boot**. Minha trajetória combina 5 anos de experiência no marketing, com evolução de estagiário a supervisor, e uma transição ativa para o desenvolvimento de software.
 
 Trabalho diariamente integrando **tecnologia, automação e análise de dados** para entregar soluções reais — desde APIs REST e aplicações desktop até dashboards e fluxos automatizados com n8n.
 
