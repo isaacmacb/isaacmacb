@@ -88,10 +88,35 @@ Minha missão: criar soluções funcionais, escaláveis e inteligentes — seja 
 ### 🖥️ Advancce Optimizer
 *Aplicação desktop para otimização de sistema e automação de rotinas*
 
-![Status](https://img.shields.io/badge/Status-Em_Produção-00C853?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Stack-C%23_WPF-239120?style=for-the-badge)
+## 📸 Screenshots
 
-📍 [GitHub](https://github.com/isaacmaciel/optimizer)
+### 🖥️ Dashboard
+
+Monitoramento completo do sistema, incluindo CPU, RAM, GPU, armazenamento, rede, segurança e informações do sistema.
+
+<p align="center">
+  <img src="1.jpeg" alt="Advancce Optimizer - Dashboard" width="95%">
+</p>
+
+---
+
+### 🧹 Cleaner System
+
+Sistema de análise e limpeza de arquivos temporários, caches, logs e outros arquivos desnecessários.
+
+<p align="center">
+  <img src="2.jpeg" alt="Advancce Optimizer - Cleaner System" width="95%">
+</p>
+
+---
+
+### 🎮 Gaming Mode
+
+Modo dedicado para otimização do sistema durante jogos, gerenciamento de processos e ajustes de desempenho.
+
+<p align="center">
+  <img src="3.jpeg" alt="Advancce Optimizer - Gaming Mode" width="95%">
+</p>
 
 ---
 
