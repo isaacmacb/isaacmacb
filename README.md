@@ -1,11 +1,11 @@
-[<h1 align="center">👋 Olá, eu sou o Isaac Maciel</h1>
+<h1 align="center">👋 Olá, eu sou o Isaac Maciel</h1>
 <h3 align="center">Desenvolvedor Back-End | C# .NET | Java | Automação & Dados</h3>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Back-End com **projetos em produção utilizando C#/.NET Core** e sólida formação em **Java/Spring Boot**. Minha trajetória combina 5 anos de experiência no marketing, com evolução de estagiário a supervisor, e uma transição ativa para o desenvolvimento de software.
+Sou desenvolvedor Back-End com **projetos em produção utilizando C#/.NET Core** e sólida formação em **Java/Spring Boot**.
 
 Trabalho diariamente integrando **tecnologia, automação e análise de dados** para entregar soluções reais — desde APIs REST e aplicações desktop até dashboards e fluxos automatizados com n8n.
 
@@ -41,8 +41,6 @@ Minha missão: criar soluções funcionais, escaláveis e inteligentes — seja 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🎨 Frontend (Apoio)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
