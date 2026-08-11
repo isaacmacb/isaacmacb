@@ -78,12 +78,11 @@ Minha missão: criar soluções funcionais, escaláveis e inteligentes — seja 
 ![Status](https://img.shields.io/badge/Status-Em_Produção-00C853?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-C%23_.NET_Core_+_React-512BD4?style=for-the-badge)
 
-**Backend:** ASP.NET Core • Entity Framework • PostgreSQL • Docker
-**Frontend:** React • TypeScript • Tailwind CSS
-
-📍 [advancce.com](https://advancce.com)
-
----
+- **Linguagem:** C#
+- **Framework:** .NET / WPF
+- **Interface:** WPF + XAML
+- **Banco de Dados:** PostgreSQL
+- **Versionamento:** Git / GitHub---
 
 ### 🖥️ Advancce Optimizer
 *Aplicação desktop para otimização de sistema e automação de rotinas*
