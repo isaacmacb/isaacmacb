@@ -116,10 +116,6 @@ Modo dedicado para otimização do sistema durante jogos, gerenciamento de proce
 
 ---
 
-🎯 **Objetivo:** Criar meu primeiro microsserviço em Java/Spring Boot para integrar com o AdvancceHub
-
----
-
 ## 📫 Vamos conversar?
 
 Estou aberto a oportunidades como **Desenvolvedor Back-End Júnior** e também a colaborações em projetos open-source.
