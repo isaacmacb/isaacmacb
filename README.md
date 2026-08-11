@@ -84,9 +84,6 @@ Minha missão: criar soluções funcionais, escaláveis e inteligentes — seja 
 - **Banco de Dados:** PostgreSQL
 - **Versionamento:** Git / GitHub---
 
-### 🖥️ Advancce Optimizer
-*Aplicação desktop para otimização de sistema e automação de rotinas*
-
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard
