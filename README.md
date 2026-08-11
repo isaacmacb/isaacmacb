@@ -142,7 +142,7 @@ Modo dedicado para otimização do sistema durante jogos, gerenciamento de proce
 
 Estou aberto a oportunidades como **Desenvolvedor Back-End Júnior** e também a colaborações em projetos open-source.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-bessa-044a14321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-maciel-044a14321/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacmacielbe@gmail.com)
 
 ---
