@@ -116,24 +116,6 @@ Modo dedicado para otimização do sistema durante jogos, gerenciamento de proce
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacmacb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmacb&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🎯 O que estou estudando no momento
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microsserviços](https://img.shields.io/badge/Microsserviços-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
 🎯 **Objetivo:** Criar meu primeiro microsserviço em Java/Spring Boot para integrar com o AdvancceHub
 
 ---
