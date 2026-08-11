@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Isaac Maciel</h1>
-<h3 align="center">Desenvolvedor Back-End | C# .NET | Java | Automação & Dados</h3>
+<h3 align="center">Desenvolvedor Back-End | C# .NET | Java
 
 ---
 
